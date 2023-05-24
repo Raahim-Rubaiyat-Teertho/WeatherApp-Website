@@ -1,0 +1,36 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container{
+    width: 500px;
+}
+
+.title{
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    margin: 3.6%;
+}
+
+#city-box.form-control{
+    width: 300px;
+    margin-left: 18%;
+    margin-right: 25%;
+    margin-top: 3.6%;
+    margin-bottom: 3.6%;
+    border: 2px solid rgba(7, 89, 166, 0.655);
+    
+}
+
+.submit-btn{
+    text-align: center;
+}
+
+
+.container.result{
+    margin-top: 8%;
+    margin-bottom: 8%;
+    text-align: center;
+    
+}
